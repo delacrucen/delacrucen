@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mauricio De La Cruz</h1>
 <h3 align="center">Software Engineer focused in Full Stack Web Development</h3>
-<h2 align="center">I see challenges as opotunities to grow</h3>
+<h4 align="center">I see challenges as opotunities to grow</h3>
 
 <p align="left"> <a href="https://twitter.com/mauridevs" target="blank"><img src="https://img.shields.io/twitter/follow/mauridevs?logo=twitter&style=for-the-badge" alt="mauridevs" /></a> </p>
 
