@@ -4,7 +4,7 @@
   
 <br>
 
-- 🌐 I’m currently learning **Frond end and Back end web development**
+- 🔭 I’m currently learning **Frond end and Back end web development**
 
 - 💻 My projects are available at: [https://mauridevs.netlify.app/](https://mauridevs.netlify.app/)
 
