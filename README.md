@@ -1,6 +1,5 @@
-<h1 align="center">Hey 👋, I'm Mauricio De La Cruz</h1>
-<h3 align="center">Mobile & Web Full Stack Software Engineer</h3>
-<h4 align="center">I see challenges as opotunities to grow</h3>
+<h1 align="center">Mobile & Web Full Stack Software Engineer</h3>
+<h3 align="center">I see challenges as opotunities to grow</h3>
   
 <br>
 
