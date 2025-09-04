@@ -54,6 +54,6 @@
 <br/>
 
 ## 📌 Currently
-- Building modern **landing pages, apps, and backoffices** with **Astro, Next.js, React Native, NestJS, CMS**.  
-- Experienced in **design-to-code workflows** with **Figma**.  
+- Building modern **landing pages, sites, apps, and backoffices** with **Astro, Next.js, React Native, NestJS, CMS**.  
+- Experienced in **design-to-code workflows** with **Figma**.
 - Focused on **scalable integrations, component-driven development, and agile delivery**.  
