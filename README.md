@@ -1,6 +1,7 @@
 <h1 align="center">Mauricio De La Cruz</h1>
 <h3 align="center">Senior Software Engineer · Web & Mobile</h3>
 <p align="center">I build fintech and payments products end to end: banking apps in production, native modules, release pipelines, the web consoles behind them and more.</p>
+<p align="center"><i>I see challenges as opportunities to grow 🚀</i></p>
 
 <p align="center">
   <a href="https://linkedin.com/in/delacrucen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
